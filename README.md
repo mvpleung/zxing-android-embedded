@@ -1,5 +1,7 @@
 # ZXing Android Embedded
 
+![效果图](https://github.com/mvpleung/zxing-android-embedded/blob/wechat-scan/art/Screenshot.jpg)
+
 Barcode scanning library for Android, using [ZXing][2] for decoding.
 
 The project is loosly based on the [ZXing Android Barcode Scanner application][2], but is not affiliated with the official ZXing project.
